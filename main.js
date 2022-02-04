@@ -32,3 +32,7 @@ for (i = 0; i < listaDeTeclas.length; i++){
     }
 }
 
+// se eu usar no firefox, console.log(tag do html), ele passa todas as propriedades do objeto
+
+//
+
